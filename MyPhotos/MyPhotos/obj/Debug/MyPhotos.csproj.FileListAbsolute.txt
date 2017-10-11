@@ -1,0 +1,10 @@
+D:\github\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotos\bin\Debug\MyPhotos.exe.config
+D:\github\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotos\bin\Debug\MyPhotos.exe
+D:\github\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotos\bin\Debug\MyPhotos.pdb
+D:\github\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotos\obj\Debug\MyPhotos.csprojResolveAssemblyReference.cache
+D:\github\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotos\obj\Debug\MyPhotos.Properties.Resources.resources
+D:\github\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotos\obj\Debug\MyPhotos.csproj.GenerateResource.Cache
+D:\github\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotos\obj\Debug\MyPhotos.csproj.CoreCompileInputs.cache
+D:\github\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotos\obj\Debug\MyPhotos.exe
+D:\github\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotos\obj\Debug\MyPhotos.pdb
+D:\github\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotos\obj\Debug\MyPhotos.MainForm.resources
