@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Manning.MyPhotoAlbum
 {
-    class PhotoAlbum:Collection<Photograph>,IDisposable
+   public class PhotoAlbum:Collection<Photograph>,IDisposable
     {
         private bool _hasChanged = false;
         public bool HasChanged

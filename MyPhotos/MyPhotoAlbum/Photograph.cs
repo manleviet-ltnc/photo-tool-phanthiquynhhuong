@@ -11,7 +11,7 @@ namespace Manning.MyPhotoAlbum
     /// The Photograph class represents a photographic
     /// image stored in the file system
     /// </summary>
-    class Photograph:IDisposable
+    public class Photograph:IDisposable
     {
         private string _fileName;
         public string FileName
@@ -120,7 +120,7 @@ namespace Manning.MyPhotoAlbum
             if (_bitmap != null)
             {
                 _bitmap.Dispose();
-                _bitmap.null;
+                _bitmap = null;
 
             }
         }

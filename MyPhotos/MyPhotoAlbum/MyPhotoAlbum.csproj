@@ -41,6 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AlbumManager.cs" />
+    <Compile Include="AlbumStorage.cs" />
     <Compile Include="PhotoAlbum.cs" />
     <Compile Include="Photograph.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
