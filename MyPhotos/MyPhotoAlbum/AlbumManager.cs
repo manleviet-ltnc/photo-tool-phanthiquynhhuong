@@ -34,7 +34,7 @@ namespace Manning.MyPhotoAlbum
             }
             set
             {
-                if (value > 0 || value >= Album.Count)
+                if (value < 0 || value >= Album.Count)
                     throw new IndexOutOfRangeException("The given Index is out of bounds");
                 _pos = value;
             }

@@ -4,12 +4,12 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{125D6E69-6AE1-47D1-9CC8-31C35C9050DC}</ProjectGuid>
+    <ProjectGuid>{667380D3-0BE0-4C1C-BFD6-8E2C9BBD5F54}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Manning.MyPhotoAlbum</RootNamespace>
+    <RootNamespace>MyPhotoAlbum</RootNamespace>
     <AssemblyName>MyPhotoAlbum</AssemblyName>
-    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">

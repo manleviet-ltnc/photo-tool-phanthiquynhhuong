@@ -29,7 +29,7 @@ namespace MyPhotos
             InitializeComponent();
             NewAlbum();
         }
-        private void NewAlbum ()
+        private void NewAlbum()
         {
             // TODO: clean up,save existing album
             Manager = new AlbumManager();
@@ -47,7 +47,7 @@ namespace MyPhotos
             string name = Manager.FullName;
             Text = String.Format("{2}-MyPhotos {0:0}.{1:0}",
                                  ver.Major, ver.Minor,
-                                 string.IsNullOrEmpty(name)?"Untitled":name);
+                                 string.IsNullOrEmpty(name) ? "Untitled" : name);
 
         }
 
@@ -116,11 +116,11 @@ namespace MyPhotos
         {
             if (pbxPhoto.Image != null)
             {
-                sttInfo.Text = Manager.Current.FileName;
+                sttInfo.Text = Manager.Current.caption;
                 sttImageSize.Text = String.Format("{0:#}x{1:#}",
                                                  pbxPhoto.Image.Width,
                                                  pbxPhoto.Image.Height);
-                // statusAlbumPos is set in ch. 6
+                sttAlbumPos.Text = String.Format("{0:0}/{1:0}", Manager.Index + 1, Manager.Album.Count);
             }
             else
             {
@@ -173,11 +173,11 @@ namespace MyPhotos
             SaveFileDialog dlg = new SaveFileDialog();
             dlg.Title = "SaveAlbum";
             dlg.DefaultExt = "abm";
-            dlg.Filter= "Album files (*.abm)| *.abm"
+            dlg.Filter = "Album files (*.abm)| *.abm"
                           + "|All files(*.*)|*.*";
             dlg.InitialDirectory = AlbumManager.DefaultPath;
             dlg.RestoreDirectory = true;
-            if (dlg.ShowDialog()==DialogResult.OK)
+            if (dlg.ShowDialog() == DialogResult.OK)
             {
                 SaveAlbum(dlg.FileName);
                 //Update title bar to include new name
@@ -207,14 +207,17 @@ namespace MyPhotos
                         "TIFF files (*.tif;*.tiff)|*.tif;*.tiff|" +
                         "PNG files (*.png)|*.png|" +
                         "ALL files (*.*)|*.*";
+
             dlg.InitialDirectory = Environment.CurrentDirectory;
-            if (dlg.ShowDialog()== DialogResult.OK)
+
+            if (dlg.ShowDialog() == DialogResult.OK)
             {
                 string[] files = dlg.FileNames;
                 int index = 0;
                 foreach (string s in files)
                 {
                     Photograph photo = new Photograph(s);
+
                     index = Manager.Album.IndexOf(photo);
                     if (index < 0)
                         Manager.Album.Add(photo);
@@ -238,7 +241,7 @@ namespace MyPhotos
 
         private void mnuNext_Click(object sender, EventArgs e)
         {
-            if (Manager.Index < Manager.Album.Count -1)
+            if (Manager.Index < Manager.Album.Count - 1)
             {
                 Manager.Index++;
                 DisplayAlbum();
@@ -247,7 +250,7 @@ namespace MyPhotos
 
         private void mnuPrevious_Click(object sender, EventArgs e)
         {
-            if (Manager.Index >0)
+            if (Manager.Index > 0)
             {
                 Manager.Index--;
                 DisplayAlbum();
