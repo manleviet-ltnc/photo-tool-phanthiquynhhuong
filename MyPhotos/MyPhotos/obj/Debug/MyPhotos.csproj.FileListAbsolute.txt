@@ -9,3 +9,17 @@ C:\Users\PLH\Documents\GitHub\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotos\bin
 C:\Users\PLH\Documents\GitHub\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotos\bin\Debug\MyPhotoAlbum.pdb
 C:\Users\PLH\Documents\GitHub\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotos\obj\Debug\MyPhotos.exe
 C:\Users\PLH\Documents\GitHub\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotos\obj\Debug\MyPhotos.pdb
+D:\github\so-thu-sai-gon-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotos\bin\Debug\MyPhotos.exe.config
+D:\github\so-thu-sai-gon-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotos\bin\Debug\MyPhotos.exe
+D:\github\so-thu-sai-gon-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotos\bin\Debug\MyPhotos.pdb
+D:\github\so-thu-sai-gon-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotos\bin\Debug\MyPhotoAlbum.dll
+D:\github\so-thu-sai-gon-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotos\bin\Debug\MyPhotoAlbum.pdb
+D:\github\so-thu-sai-gon-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotos\obj\Debug\MyPhotos.csprojResolveAssemblyReference.cache
+D:\github\so-thu-sai-gon-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotos\obj\Debug\MyPhotos.Properties.Resources.resources
+D:\github\so-thu-sai-gon-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotos\obj\Debug\MyPhotos.csproj.GenerateResource.Cache
+D:\github\so-thu-sai-gon-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotos\obj\Debug\MyPhotos.csproj.CoreCompileInputs.cache
+D:\github\so-thu-sai-gon-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotos\obj\Debug\MyPhotos.exe
+D:\github\so-thu-sai-gon-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotos\obj\Debug\MyPhotos.pdb
+D:\github\so-thu-sai-gon-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotos\bin\Debug\MyPhotoControls.dll
+D:\github\so-thu-sai-gon-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotos\bin\Debug\MyPhotoControls.pdb
+D:\github\so-thu-sai-gon-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotos\obj\Debug\MyPhotos.MainForm.resources

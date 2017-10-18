@@ -4,3 +4,9 @@ C:\Users\PLH\Documents\GitHub\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoAlbum
 C:\Users\PLH\Documents\GitHub\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.pdb
 C:\Users\PLH\Documents\GitHub\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.dll
 C:\Users\PLH\Documents\GitHub\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.pdb
+D:\github\so-thu-sai-gon-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.dll
+D:\github\so-thu-sai-gon-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.pdb
+D:\github\so-thu-sai-gon-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.csprojResolveAssemblyReference.cache
+D:\github\so-thu-sai-gon-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.csproj.CoreCompileInputs.cache
+D:\github\so-thu-sai-gon-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.dll
+D:\github\so-thu-sai-gon-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.pdb

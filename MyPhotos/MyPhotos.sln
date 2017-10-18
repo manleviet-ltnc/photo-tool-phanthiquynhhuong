@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2002
+VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPhotoAlbum", "MyPhotoAlbum\MyPhotoAlbum.csproj", "{667380D3-0BE0-4C1C-BFD6-8E2C9BBD5F54}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPhotos", "MyPhotos\MyPhotos.csproj", "{8378D7FB-1092-46A9-AC16-5970DD697B2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPhotoControls", "..\..\..\photo-tool-phanthiquynhhuong\MyPhotoControls\MyPhotoControls.csproj", "{F3B80B69-FBE1-47DB-B296-44B3E8B68BE5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{8378D7FB-1092-46A9-AC16-5970DD697B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8378D7FB-1092-46A9-AC16-5970DD697B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8378D7FB-1092-46A9-AC16-5970DD697B2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3B80B69-FBE1-47DB-B296-44B3E8B68BE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3B80B69-FBE1-47DB-B296-44B3E8B68BE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3B80B69-FBE1-47DB-B296-44B3E8B68BE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3B80B69-FBE1-47DB-B296-44B3E8B68BE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

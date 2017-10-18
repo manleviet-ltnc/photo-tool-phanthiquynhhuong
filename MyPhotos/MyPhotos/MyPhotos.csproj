@@ -53,6 +53,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -76,6 +79,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\..\..\photo-tool-phanthiquynhhuong\MyPhotoControls\MyPhotoControls.csproj">
+      <Project>{f3b80b69-fbe1-47db-b296-44b3e8b68be5}</Project>
+      <Name>MyPhotoControls</Name>
+    </ProjectReference>
     <ProjectReference Include="..\MyPhotoAlbum\MyPhotoAlbum.csproj">
       <Project>{667380d3-0be0-4c1c-bfd6-8e2c9bbd5f54}</Project>
       <Name>MyPhotoAlbum</Name>
