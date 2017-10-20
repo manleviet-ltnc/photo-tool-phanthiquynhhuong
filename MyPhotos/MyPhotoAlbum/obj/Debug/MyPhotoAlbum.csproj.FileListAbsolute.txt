@@ -10,3 +10,9 @@ D:\github\so-thu-sai-gon-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos
 D:\github\so-thu-sai-gon-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.csproj.CoreCompileInputs.cache
 D:\github\so-thu-sai-gon-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.dll
 D:\github\so-thu-sai-gon-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.pdb
+C:\Users\LC\Downloads\photo-tool-phanthiquynhhuong-64f68175741953d5b5d2245cd71f580e625f4776\MyPhotos\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.dll
+C:\Users\LC\Downloads\photo-tool-phanthiquynhhuong-64f68175741953d5b5d2245cd71f580e625f4776\MyPhotos\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.pdb
+C:\Users\LC\Downloads\photo-tool-phanthiquynhhuong-64f68175741953d5b5d2245cd71f580e625f4776\MyPhotos\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.csprojResolveAssemblyReference.cache
+C:\Users\LC\Downloads\photo-tool-phanthiquynhhuong-64f68175741953d5b5d2245cd71f580e625f4776\MyPhotos\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.csproj.CoreCompileInputs.cache
+C:\Users\LC\Downloads\photo-tool-phanthiquynhhuong-64f68175741953d5b5d2245cd71f580e625f4776\MyPhotos\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.dll
+C:\Users\LC\Downloads\photo-tool-phanthiquynhhuong-64f68175741953d5b5d2245cd71f580e625f4776\MyPhotos\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.pdb

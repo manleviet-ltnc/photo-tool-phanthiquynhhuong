@@ -79,7 +79,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\photo-tool-phanthiquynhhuong\MyPhotoControls\MyPhotoControls.csproj">
+    <ProjectReference Include="..\..\..\..\MyPhotoControls\MyPhotoControls.csproj">
       <Project>{f3b80b69-fbe1-47db-b296-44b3e8b68be5}</Project>
       <Name>MyPhotoControls</Name>
     </ProjectReference>
