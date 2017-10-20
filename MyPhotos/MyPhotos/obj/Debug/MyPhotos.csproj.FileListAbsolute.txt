@@ -37,3 +37,17 @@ C:\Users\LC\Downloads\photo-tool-phanthiquynhhuong-64f68175741953d5b5d2245cd71f5
 C:\Users\LC\Downloads\photo-tool-phanthiquynhhuong-64f68175741953d5b5d2245cd71f580e625f4776\MyPhotos\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotos\bin\Debug\MyPhotoControls.dll
 C:\Users\LC\Downloads\photo-tool-phanthiquynhhuong-64f68175741953d5b5d2245cd71f580e625f4776\MyPhotos\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotos\bin\Debug\MyPhotoControls.pdb
 C:\Users\LC\Downloads\photo-tool-phanthiquynhhuong-64f68175741953d5b5d2245cd71f580e625f4776\MyPhotos\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotos\bin\Debug\MyPhotoAlbum.pdb
+D:\github\photo-tool-phanthiquynhhuong22\MyPhotos\MyPhotos\bin\Debug\MyPhotos.exe.config
+D:\github\photo-tool-phanthiquynhhuong22\MyPhotos\MyPhotos\bin\Debug\MyPhotos.exe
+D:\github\photo-tool-phanthiquynhhuong22\MyPhotos\MyPhotos\bin\Debug\MyPhotos.pdb
+D:\github\photo-tool-phanthiquynhhuong22\MyPhotos\MyPhotos\bin\Debug\MyPhotoAlbum.dll
+D:\github\photo-tool-phanthiquynhhuong22\MyPhotos\MyPhotos\bin\Debug\MyPhotoControls.dll
+D:\github\photo-tool-phanthiquynhhuong22\MyPhotos\MyPhotos\bin\Debug\MyPhotoAlbum.pdb
+D:\github\photo-tool-phanthiquynhhuong22\MyPhotos\MyPhotos\bin\Debug\MyPhotoControls.pdb
+D:\github\photo-tool-phanthiquynhhuong22\MyPhotos\MyPhotos\obj\Debug\MyPhotos.csprojResolveAssemblyReference.cache
+D:\github\photo-tool-phanthiquynhhuong22\MyPhotos\MyPhotos\obj\Debug\MyPhotos.MainForm.resources
+D:\github\photo-tool-phanthiquynhhuong22\MyPhotos\MyPhotos\obj\Debug\MyPhotos.Properties.Resources.resources
+D:\github\photo-tool-phanthiquynhhuong22\MyPhotos\MyPhotos\obj\Debug\MyPhotos.csproj.GenerateResource.Cache
+D:\github\photo-tool-phanthiquynhhuong22\MyPhotos\MyPhotos\obj\Debug\MyPhotos.csproj.CoreCompileInputs.cache
+D:\github\photo-tool-phanthiquynhhuong22\MyPhotos\MyPhotos\obj\Debug\MyPhotos.exe
+D:\github\photo-tool-phanthiquynhhuong22\MyPhotos\MyPhotos\obj\Debug\MyPhotos.pdb

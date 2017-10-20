@@ -79,13 +79,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\MyPhotoControls\MyPhotoControls.csproj">
-      <Project>{f3b80b69-fbe1-47db-b296-44b3e8b68be5}</Project>
-      <Name>MyPhotoControls</Name>
-    </ProjectReference>
     <ProjectReference Include="..\MyPhotoAlbum\MyPhotoAlbum.csproj">
       <Project>{667380d3-0be0-4c1c-bfd6-8e2c9bbd5f54}</Project>
       <Name>MyPhotoAlbum</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\LC\Downloads\photo-tool-phanthiquynhhuong-64f68175741953d5b5d2245cd71f580e625f4776\MyPhotoControls\MyPhotoControls.csproj">
+      <Project>{f3b80b69-fbe1-47db-b296-44b3e8b68be5}</Project>
+      <Name>MyPhotoControls</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
