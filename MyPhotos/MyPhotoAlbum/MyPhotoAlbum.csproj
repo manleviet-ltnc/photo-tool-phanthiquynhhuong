@@ -7,7 +7,7 @@
     <ProjectGuid>{667380D3-0BE0-4C1C-BFD6-8E2C9BBD5F54}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MyPhotoAlbum</RootNamespace>
+    <RootNamespace>Manning.MyPhotoAlbum</RootNamespace>
     <AssemblyName>MyPhotoAlbum</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -43,6 +43,9 @@
   <ItemGroup>
     <Compile Include="AlbumManager.cs" />
     <Compile Include="AlbumStorage.cs" />
+    <Compile Include="CryptoReader.cs" />
+    <Compile Include="CryptoTextBase.cs" />
+    <Compile Include="CryptoWriter.cs" />
     <Compile Include="ImageUtility.cs" />
     <Compile Include="PhotoAlbum.cs" />
     <Compile Include="Photograph.cs" />

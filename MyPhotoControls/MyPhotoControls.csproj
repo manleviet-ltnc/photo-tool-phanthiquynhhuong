@@ -41,11 +41,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AlbumEditDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlbumEditDialog.Designer.cs">
+      <DependentUpon>AlbumEditDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AlbumPasswordDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlbumPasswordDialog.Designer.cs">
+      <DependentUpon>AlbumPasswordDialog.cs</DependentUpon>
+    </Compile>
     <Compile Include="BaseEditDialog.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="BaseEditDialog.Designer.cs">
       <DependentUpon>BaseEditDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Flyby TextProvider.cs">
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="PhotoEditDialog.cs">
       <SubType>Form</SubType>
@@ -63,12 +78,18 @@
     <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\so-thu-sai-gon-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoAlbum\MyPhotoAlbum.csproj">
+    <ProjectReference Include="..\MyPhotos\MyPhotoAlbum\MyPhotoAlbum.csproj">
       <Project>{667380d3-0be0-4c1c-bfd6-8e2c9bbd5f54}</Project>
       <Name>MyPhotoAlbum</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="AlbumEditDialog.resx">
+      <DependentUpon>AlbumEditDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AlbumPasswordDialog.resx">
+      <DependentUpon>AlbumPasswordDialog.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="BaseEditDialog.resx">
       <DependentUpon>BaseEditDialog.cs</DependentUpon>
     </EmbeddedResource>

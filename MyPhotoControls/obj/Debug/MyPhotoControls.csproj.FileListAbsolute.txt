@@ -10,3 +10,17 @@ D:\github\photo-tool-phanthiquynhhuong\MyPhotoControls\obj\Debug\MyPhotoControls
 D:\github\photo-tool-phanthiquynhhuong\MyPhotoControls\obj\Debug\MyPhotoControls.pdb
 D:\github\photo-tool-phanthiquynhhuong\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.BaseEditDialog.resources
 D:\github\photo-tool-phanthiquynhhuong\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.PhotoEditDialog.resources
+E:\photo-tool-phanthiquynhhuong\MyPhotoControls\bin\Debug\MyPhotoControls.dll
+E:\photo-tool-phanthiquynhhuong\MyPhotoControls\bin\Debug\MyPhotoControls.pdb
+E:\photo-tool-phanthiquynhhuong\MyPhotoControls\bin\Debug\MyPhotoAlbum.dll
+E:\photo-tool-phanthiquynhhuong\MyPhotoControls\bin\Debug\MyPhotoAlbum.pdb
+E:\photo-tool-phanthiquynhhuong\MyPhotoControls\obj\Debug\MyPhotoControls.csprojResolveAssemblyReference.cache
+E:\photo-tool-phanthiquynhhuong\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.BaseEditDialog.resources
+E:\photo-tool-phanthiquynhhuong\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.PhotoEditDialog.resources
+E:\photo-tool-phanthiquynhhuong\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.PixelDialog.resources
+E:\photo-tool-phanthiquynhhuong\MyPhotoControls\obj\Debug\MyPhotoControls.csproj.GenerateResource.Cache
+E:\photo-tool-phanthiquynhhuong\MyPhotoControls\obj\Debug\MyPhotoControls.csproj.CoreCompileInputs.cache
+E:\photo-tool-phanthiquynhhuong\MyPhotoControls\obj\Debug\MyPhotoControls.dll
+E:\photo-tool-phanthiquynhhuong\MyPhotoControls\obj\Debug\MyPhotoControls.pdb
+E:\photo-tool-phanthiquynhhuong\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.AlbumEditDialog.resources
+E:\photo-tool-phanthiquynhhuong\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.AlbumPasswordDialog.resources
