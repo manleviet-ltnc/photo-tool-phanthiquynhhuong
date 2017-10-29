@@ -24,3 +24,17 @@ E:\photo-tool-phanthiquynhhuong\MyPhotoControls\obj\Debug\MyPhotoControls.dll
 E:\photo-tool-phanthiquynhhuong\MyPhotoControls\obj\Debug\MyPhotoControls.pdb
 E:\photo-tool-phanthiquynhhuong\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.AlbumEditDialog.resources
 E:\photo-tool-phanthiquynhhuong\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.AlbumPasswordDialog.resources
+D:\github\photo-tool-phanthiquynhhuong22\photo-tool-phanthiquynhhuong\MyPhotoControls\bin\Debug\MyPhotoControls.dll
+D:\github\photo-tool-phanthiquynhhuong22\photo-tool-phanthiquynhhuong\MyPhotoControls\bin\Debug\MyPhotoControls.pdb
+D:\github\photo-tool-phanthiquynhhuong22\photo-tool-phanthiquynhhuong\MyPhotoControls\bin\Debug\MyPhotoAlbum.dll
+D:\github\photo-tool-phanthiquynhhuong22\photo-tool-phanthiquynhhuong\MyPhotoControls\bin\Debug\MyPhotoAlbum.pdb
+D:\github\photo-tool-phanthiquynhhuong22\photo-tool-phanthiquynhhuong\MyPhotoControls\obj\Debug\MyPhotoControls.csprojResolveAssemblyReference.cache
+D:\github\photo-tool-phanthiquynhhuong22\photo-tool-phanthiquynhhuong\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.AlbumEditDialog.resources
+D:\github\photo-tool-phanthiquynhhuong22\photo-tool-phanthiquynhhuong\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.AlbumPasswordDialog.resources
+D:\github\photo-tool-phanthiquynhhuong22\photo-tool-phanthiquynhhuong\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.BaseEditDialog.resources
+D:\github\photo-tool-phanthiquynhhuong22\photo-tool-phanthiquynhhuong\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.PhotoEditDialog.resources
+D:\github\photo-tool-phanthiquynhhuong22\photo-tool-phanthiquynhhuong\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.PixelDialog.resources
+D:\github\photo-tool-phanthiquynhhuong22\photo-tool-phanthiquynhhuong\MyPhotoControls\obj\Debug\MyPhotoControls.csproj.GenerateResource.Cache
+D:\github\photo-tool-phanthiquynhhuong22\photo-tool-phanthiquynhhuong\MyPhotoControls\obj\Debug\MyPhotoControls.csproj.CoreCompileInputs.cache
+D:\github\photo-tool-phanthiquynhhuong22\photo-tool-phanthiquynhhuong\MyPhotoControls\obj\Debug\MyPhotoControls.dll
+D:\github\photo-tool-phanthiquynhhuong22\photo-tool-phanthiquynhhuong\MyPhotoControls\obj\Debug\MyPhotoControls.pdb

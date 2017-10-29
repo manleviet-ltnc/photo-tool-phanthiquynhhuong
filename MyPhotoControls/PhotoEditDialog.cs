@@ -6,6 +6,7 @@ using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
 using Manning.MyPhotoAlbum;
+using System.Collections.Specialized;
 
 
 namespace Manning.MyPhotoControls
@@ -54,13 +55,26 @@ namespace Manning.MyPhotoControls
 
         protected override void ResetDialog()
         {
+            // Fill combo box with photographers in album
+            cmbPhotographer.BeginUpdate();
+            cmbPhotographer.Items.Clear();
+
+            if (Manager != null)
+            {
+                StringCollection coll = Manager.Photographers;
+                foreach (string s in coll)
+                    cmbPhotographer.Items.Add(s);
+            }
+            else
+                cmbPhotographer.Items.Add(Photo.photographer);
+            cmbPhotographer.EndUpdate();
             Photograph photo = Photo;
             if(photo != null)
             {
                 txtPhotoFile.Text = photo.FileName;
                 txtCaption.Text = photo.caption;
-            mskDateTaken.Text = photo.dateaTaken.ToString();
-                txtPhotographer.Text = photo.photographer;
+                mskDateTaken.Text = photo.dateaTaken.ToString();
+                cmbPhotographer.Text = photo.photographer;
                 txtNotes.Text = photo.notes;
             }
         }
@@ -77,7 +91,7 @@ namespace Manning.MyPhotoControls
             if(photo!= null)
             {
                 photo.caption = txtCaption.Text;
-                photo.photographer = txtPhotographer.Text;
+                photo.photographer = cmbPhotographer.Text;
                 photo.notes = txtNotes.Text;
                 try
                 {
@@ -118,6 +132,13 @@ namespace Manning.MyPhotoControls
                                                      
 
             }
+        }
+
+        private void cmbPhotographer_Leave(object sender, EventArgs e)
+        {
+            string person = cmbPhotographer.Text;
+            if (!cmbPhotographer.Items.Contains(person))
+                cmbPhotographer.Items.Add(person);
         }
     }
 }
