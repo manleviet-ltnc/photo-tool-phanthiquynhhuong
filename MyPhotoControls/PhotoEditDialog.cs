@@ -50,7 +50,7 @@ namespace Manning.MyPhotoControls
         {
             _photo = photo;
             ResetDialog();
-            mskDateTaken.ValidatingType = typeof(CurrentDate);
+          
         }
 
         protected override void ResetDialog()
@@ -73,7 +73,7 @@ namespace Manning.MyPhotoControls
             {
                 txtPhotoFile.Text = photo.FileName;
                 txtCaption.Text = photo.caption;
-                mskDateTaken.Text = photo.dateaTaken.ToString();
+                dtpDateTaken.Value = photo.dateaTaken;
                 cmbPhotographer.Text = photo.photographer;
                 txtNotes.Text = photo.notes;
             }
@@ -95,7 +95,7 @@ namespace Manning.MyPhotoControls
                 photo.notes = txtNotes.Text;
                 try
                 {
-                    photo.dateaTaken = DateTime.Parse(mskDateTaken.Text);
+                    photo.dateaTaken = dtpDateTaken.Value;
                 }
                 catch (FormatException) { }
             }

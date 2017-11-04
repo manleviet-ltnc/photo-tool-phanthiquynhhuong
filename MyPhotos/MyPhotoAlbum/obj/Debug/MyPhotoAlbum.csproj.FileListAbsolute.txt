@@ -34,3 +34,9 @@ D:\github\photo-tool-phanthiquynhhuong22\photo-tool-phanthiquynhhuong\MyPhotos\M
 D:\github\photo-tool-phanthiquynhhuong22\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.csproj.CoreCompileInputs.cache
 D:\github\photo-tool-phanthiquynhhuong22\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.dll
 D:\github\photo-tool-phanthiquynhhuong22\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.pdb
+D:\github\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.dll
+D:\github\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.pdb
+D:\github\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.csprojResolveAssemblyReference.cache
+D:\github\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.csproj.CoreCompileInputs.cache
+D:\github\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.dll
+D:\github\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.pdb
