@@ -44,7 +44,6 @@ E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotoControls\bin
 E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotoControls\bin\Debug\MyPhotoControls.pdb
 E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotoControls\bin\Debug\MyPhotoAlbum.dll
 E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotoControls\bin\Debug\MyPhotoAlbum.pdb
-E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotoControls\obj\Debug\MyPhotoControls.csprojResolveAssemblyReference.cache
 E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.AlbumEditDialog.resources
 E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.AlbumPasswordDialog.resources
 E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.BaseEditDialog.resources

@@ -1,0 +1,14 @@
+E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\ScrollablePictureBoxTest\ScrollablePictureBoxTest\bin\Debug\ScrollablePictureBoxTest.exe.config
+E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\ScrollablePictureBoxTest\ScrollablePictureBoxTest\bin\Debug\ScrollablePictureBoxTest.exe
+E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\ScrollablePictureBoxTest\ScrollablePictureBoxTest\bin\Debug\ScrollablePictureBoxTest.pdb
+E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\ScrollablePictureBoxTest\ScrollablePictureBoxTest\bin\Debug\MyPhotoControls.dll
+E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\ScrollablePictureBoxTest\ScrollablePictureBoxTest\bin\Debug\MyPhotoAlbum.dll
+E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\ScrollablePictureBoxTest\ScrollablePictureBoxTest\bin\Debug\MyPhotoControls.pdb
+E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\ScrollablePictureBoxTest\ScrollablePictureBoxTest\bin\Debug\MyPhotoAlbum.pdb
+E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\ScrollablePictureBoxTest\ScrollablePictureBoxTest\obj\Debug\ScrollablePictureBoxTest.csprojResolveAssemblyReference.cache
+E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\ScrollablePictureBoxTest\ScrollablePictureBoxTest\obj\Debug\ScrollablePictureBoxTest.Properties.Resources.resources
+E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\ScrollablePictureBoxTest\ScrollablePictureBoxTest\obj\Debug\ScrollablePictureBoxTest.TestForm.resources
+E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\ScrollablePictureBoxTest\ScrollablePictureBoxTest\obj\Debug\ScrollablePictureBoxTest.csproj.GenerateResource.Cache
+E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\ScrollablePictureBoxTest\ScrollablePictureBoxTest\obj\Debug\ScrollablePictureBoxTest.csproj.CoreCompileInputs.cache
+E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\ScrollablePictureBoxTest\ScrollablePictureBoxTest\obj\Debug\ScrollablePictureBoxTest.exe
+E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\ScrollablePictureBoxTest\ScrollablePictureBoxTest\obj\Debug\ScrollablePictureBoxTest.pdb

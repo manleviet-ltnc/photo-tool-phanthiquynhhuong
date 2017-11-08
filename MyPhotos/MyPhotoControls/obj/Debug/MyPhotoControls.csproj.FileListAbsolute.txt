@@ -1,0 +1,6 @@
+E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoControls\bin\Debug\MyPhotoControls.dll
+E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoControls\bin\Debug\MyPhotoControls.pdb
+E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoControls\obj\Debug\MyPhotoControls.csprojResolveAssemblyReference.cache
+E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoControls\obj\Debug\MyPhotoControls.csproj.CoreCompileInputs.cache
+E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoControls\obj\Debug\MyPhotoControls.dll
+E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoControls\obj\Debug\MyPhotoControls.pdb

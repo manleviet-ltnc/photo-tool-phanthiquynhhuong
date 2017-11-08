@@ -1,0 +1,14 @@
+E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyAlbumExplorer\MyAlbumExplorer\bin\Debug\MyAlbumExplorer.exe.config
+E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyAlbumExplorer\MyAlbumExplorer\bin\Debug\MyAlbumExplorer.exe
+E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyAlbumExplorer\MyAlbumExplorer\bin\Debug\MyAlbumExplorer.pdb
+E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyAlbumExplorer\MyAlbumExplorer\bin\Debug\MyPhotoAlbum.dll
+E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyAlbumExplorer\MyAlbumExplorer\bin\Debug\MyPhotoControls.dll
+E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyAlbumExplorer\MyAlbumExplorer\bin\Debug\MyPhotoAlbum.pdb
+E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyAlbumExplorer\MyAlbumExplorer\bin\Debug\MyPhotoControls.pdb
+E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyAlbumExplorer\MyAlbumExplorer\obj\Debug\MyAlbumExplorer.csprojResolveAssemblyReference.cache
+E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyAlbumExplorer\MyAlbumExplorer\obj\Debug\MyAlbumExplorer.ExplorerForm.resources
+E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyAlbumExplorer\MyAlbumExplorer\obj\Debug\MyAlbumExplorer.Properties.Resources.resources
+E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyAlbumExplorer\MyAlbumExplorer\obj\Debug\MyAlbumExplorer.csproj.GenerateResource.Cache
+E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyAlbumExplorer\MyAlbumExplorer\obj\Debug\MyAlbumExplorer.csproj.CoreCompileInputs.cache
+E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyAlbumExplorer\MyAlbumExplorer\obj\Debug\MyAlbumExplorer.exe
+E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyAlbumExplorer\MyAlbumExplorer\obj\Debug\MyAlbumExplorer.pdb
