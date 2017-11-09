@@ -46,3 +46,8 @@ E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoAlb
 E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.csproj.CoreCompileInputs.cache
 E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.dll
 E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.pdb
+C:\Users\PLH\Downloads\photo-tool-phanthiquynhhuong-master\MyPhotos\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.dll
+C:\Users\PLH\Downloads\photo-tool-phanthiquynhhuong-master\MyPhotos\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.pdb
+C:\Users\PLH\Downloads\photo-tool-phanthiquynhhuong-master\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.csproj.CoreCompileInputs.cache
+C:\Users\PLH\Downloads\photo-tool-phanthiquynhhuong-master\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.dll
+C:\Users\PLH\Downloads\photo-tool-phanthiquynhhuong-master\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.pdb

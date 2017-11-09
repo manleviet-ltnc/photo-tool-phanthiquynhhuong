@@ -48,13 +48,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="albumTreeVeiw.cs" />
+    <Compile Include="AlbumDirectoryNode.cs" />
+    <Compile Include="AlbumNode.cs" />
+    <Compile Include="AlbumTreeVeiw.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="ExplorerForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="ExplorerForm.Designer.cs">
       <DependentUpon>ExplorerForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="PhotoNode.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="ExplorerForm.resx">
@@ -83,13 +88,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\MyPhotoControls\MyPhotoControls.csproj">
+      <Project>{f3b80b69-fbe1-47db-b296-44b3e8b68be5}</Project>
+      <Name>MyPhotoControls</Name>
+    </ProjectReference>
     <ProjectReference Include="..\..\MyPhotos\MyPhotoAlbum\MyPhotoAlbum.csproj">
       <Project>{667380d3-0be0-4c1c-bfd6-8e2c9bbd5f54}</Project>
       <Name>MyPhotoAlbum</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\MyPhotos\MyPhotoControls\MyPhotoControls.csproj">
-      <Project>{d7bcb175-b999-4600-bc5b-ebd28cc72d40}</Project>
-      <Name>MyPhotoControls</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

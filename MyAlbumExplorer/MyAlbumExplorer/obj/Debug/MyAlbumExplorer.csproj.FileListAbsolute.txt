@@ -12,3 +12,17 @@ E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyAlbumExplorer\MyA
 E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyAlbumExplorer\MyAlbumExplorer\obj\Debug\MyAlbumExplorer.csproj.CoreCompileInputs.cache
 E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyAlbumExplorer\MyAlbumExplorer\obj\Debug\MyAlbumExplorer.exe
 E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyAlbumExplorer\MyAlbumExplorer\obj\Debug\MyAlbumExplorer.pdb
+C:\Users\PLH\Downloads\photo-tool-phanthiquynhhuong-master\MyAlbumExplorer\MyAlbumExplorer\obj\Debug\MyAlbumExplorer.csprojResolveAssemblyReference.cache
+C:\Users\PLH\Downloads\photo-tool-phanthiquynhhuong-master\MyAlbumExplorer\MyAlbumExplorer\obj\Debug\MyAlbumExplorer.ExplorerForm.resources
+C:\Users\PLH\Downloads\photo-tool-phanthiquynhhuong-master\MyAlbumExplorer\MyAlbumExplorer\obj\Debug\MyAlbumExplorer.Properties.Resources.resources
+C:\Users\PLH\Downloads\photo-tool-phanthiquynhhuong-master\MyAlbumExplorer\MyAlbumExplorer\obj\Debug\MyAlbumExplorer.csproj.GenerateResource.Cache
+C:\Users\PLH\Downloads\photo-tool-phanthiquynhhuong-master\MyAlbumExplorer\MyAlbumExplorer\obj\Debug\MyAlbumExplorer.csproj.CoreCompileInputs.cache
+C:\Users\PLH\Downloads\photo-tool-phanthiquynhhuong-master\MyAlbumExplorer\MyAlbumExplorer\obj\Debug\MyAlbumExplorer.exe
+C:\Users\PLH\Downloads\photo-tool-phanthiquynhhuong-master\MyAlbumExplorer\MyAlbumExplorer\obj\Debug\MyAlbumExplorer.pdb
+C:\Users\PLH\Downloads\photo-tool-phanthiquynhhuong-master\MyAlbumExplorer\MyAlbumExplorer\bin\Debug\MyAlbumExplorer.exe.config
+C:\Users\PLH\Downloads\photo-tool-phanthiquynhhuong-master\MyAlbumExplorer\MyAlbumExplorer\bin\Debug\MyAlbumExplorer.exe
+C:\Users\PLH\Downloads\photo-tool-phanthiquynhhuong-master\MyAlbumExplorer\MyAlbumExplorer\bin\Debug\MyAlbumExplorer.pdb
+C:\Users\PLH\Downloads\photo-tool-phanthiquynhhuong-master\MyAlbumExplorer\MyAlbumExplorer\bin\Debug\MyPhotoAlbum.dll
+C:\Users\PLH\Downloads\photo-tool-phanthiquynhhuong-master\MyAlbumExplorer\MyAlbumExplorer\bin\Debug\MyPhotoControls.dll
+C:\Users\PLH\Downloads\photo-tool-phanthiquynhhuong-master\MyAlbumExplorer\MyAlbumExplorer\bin\Debug\MyPhotoControls.pdb
+C:\Users\PLH\Downloads\photo-tool-phanthiquynhhuong-master\MyAlbumExplorer\MyAlbumExplorer\bin\Debug\MyPhotoAlbum.pdb

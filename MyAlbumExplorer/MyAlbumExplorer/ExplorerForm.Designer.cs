@@ -28,12 +28,18 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ExplorerForm));
             this.splitContainer1 = new System.Windows.Forms.SplitContainer();
-            this.albumTree = new System.Windows.Forms.TreeView();
+            this.imageListSmall = new System.Windows.Forms.ImageList(this.components);
+            this.spbxPhoto = new Manning.MyPhotoControls.ScrollablePictureBox();
+            this.imageListLarge = new System.Windows.Forms.ImageList(this.components);
+            this.atvAlbumTree = new MyAlbumExplorer.AlbumTreeVeiw();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.Panel1.SuspendLayout();
+            this.splitContainer1.Panel2.SuspendLayout();
             this.splitContainer1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.spbxPhoto)).BeginInit();
             this.SuspendLayout();
             // 
             // splitContainer1
@@ -44,19 +50,57 @@
             // 
             // splitContainer1.Panel1
             // 
-            this.splitContainer1.Panel1.Controls.Add(this.albumTree);
+            this.splitContainer1.Panel1.Controls.Add(this.atvAlbumTree);
+            // 
+            // splitContainer1.Panel2
+            // 
+            this.splitContainer1.Panel2.Controls.Add(this.spbxPhoto);
             this.splitContainer1.Size = new System.Drawing.Size(434, 261);
             this.splitContainer1.SplitterDistance = 144;
             this.splitContainer1.TabIndex = 0;
             // 
-            // albumTree
+            // imageListSmall
             // 
-            this.albumTree.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.albumTree.Location = new System.Drawing.Point(0, 0);
-            this.albumTree.Name = "albumTree";
-            this.albumTree.ShowNodeToolTips = true;
-            this.albumTree.Size = new System.Drawing.Size(144, 261);
-            this.albumTree.TabIndex = 0;
+            this.imageListSmall.ImageStream = ((System.Windows.Forms.ImageListStreamer)(resources.GetObject("imageListSmall.ImageStream")));
+            this.imageListSmall.TransparentColor = System.Drawing.Color.Transparent;
+            this.imageListSmall.Images.SetKeyName(0, "Photo");
+            this.imageListSmall.Images.SetKeyName(1, "Album");
+            this.imageListSmall.Images.SetKeyName(2, "AlbumSelect");
+            this.imageListSmall.Images.SetKeyName(3, "albumError");
+            this.imageListSmall.Images.SetKeyName(4, "AlbumLock");
+            this.imageListSmall.Images.SetKeyName(5, "AlbumDir");
+            // 
+            // spbxPhoto
+            // 
+            this.spbxPhoto.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.spbxPhoto.Image = null;
+            this.spbxPhoto.Location = new System.Drawing.Point(0, 0);
+            this.spbxPhoto.Name = "spbxPhoto";
+            this.spbxPhoto.Size = new System.Drawing.Size(286, 261);
+            this.spbxPhoto.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.spbxPhoto.TabIndex = 0;
+            this.spbxPhoto.TabStop = false;
+            // 
+            // imageListLarge
+            // 
+            this.imageListLarge.ColorDepth = System.Windows.Forms.ColorDepth.Depth8Bit;
+            this.imageListLarge.ImageSize = new System.Drawing.Size(32, 32);
+            this.imageListLarge.TransparentColor = System.Drawing.Color.Transparent;
+            // 
+            // atvAlbumTree
+            // 
+            this.atvAlbumTree.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.atvAlbumTree.HideSelection = false;
+            this.atvAlbumTree.ImageIndex = 0;
+            this.atvAlbumTree.ImageList = this.imageListSmall;
+            this.atvAlbumTree.LabelEdit = true;
+            this.atvAlbumTree.Location = new System.Drawing.Point(0, 0);
+            this.atvAlbumTree.Name = "atvAlbumTree";
+            this.atvAlbumTree.SelectedImageIndex = 0;
+            this.atvAlbumTree.Size = new System.Drawing.Size(144, 261);
+            this.atvAlbumTree.TabIndex = 0;
+            this.atvAlbumTree.BeforeSelect += new System.Windows.Forms.TreeViewCancelEventHandler(this.atvAlbumTree_BeforeSelect);
+            this.atvAlbumTree.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.atvAlbumTree_AfterSelect);
             // 
             // ExplorerForm
             // 
@@ -68,8 +112,10 @@
             this.Name = "ExplorerForm";
             this.Text = "Album Explorer";
             this.splitContainer1.Panel1.ResumeLayout(false);
+            this.splitContainer1.Panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).EndInit();
             this.splitContainer1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.spbxPhoto)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -77,7 +123,10 @@
         #endregion
 
         private System.Windows.Forms.SplitContainer splitContainer1;
-        private System.Windows.Forms.TreeView albumTree;
+        private System.Windows.Forms.ImageList imageListSmall;
+        private System.Windows.Forms.ImageList imageListLarge;
+        private AlbumTreeVeiw atvAlbumTree;
+        private Manning.MyPhotoControls.ScrollablePictureBox spbxPhoto;
     }
 }
 

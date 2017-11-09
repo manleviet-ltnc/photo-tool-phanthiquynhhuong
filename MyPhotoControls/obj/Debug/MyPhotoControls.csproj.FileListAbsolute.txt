@@ -53,3 +53,17 @@ E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotoControls\obj
 E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotoControls\obj\Debug\MyPhotoControls.csproj.CoreCompileInputs.cache
 E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotoControls\obj\Debug\MyPhotoControls.dll
 E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotoControls\obj\Debug\MyPhotoControls.pdb
+C:\Users\PLH\Downloads\photo-tool-phanthiquynhhuong-master\MyPhotoControls\bin\Debug\MyPhotoControls.dll
+C:\Users\PLH\Downloads\photo-tool-phanthiquynhhuong-master\MyPhotoControls\bin\Debug\MyPhotoControls.pdb
+C:\Users\PLH\Downloads\photo-tool-phanthiquynhhuong-master\MyPhotoControls\bin\Debug\MyPhotoAlbum.dll
+C:\Users\PLH\Downloads\photo-tool-phanthiquynhhuong-master\MyPhotoControls\bin\Debug\MyPhotoAlbum.pdb
+C:\Users\PLH\Downloads\photo-tool-phanthiquynhhuong-master\MyPhotoControls\obj\Debug\MyPhotoControls.csprojResolveAssemblyReference.cache
+C:\Users\PLH\Downloads\photo-tool-phanthiquynhhuong-master\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.AlbumEditDialog.resources
+C:\Users\PLH\Downloads\photo-tool-phanthiquynhhuong-master\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.AlbumPasswordDialog.resources
+C:\Users\PLH\Downloads\photo-tool-phanthiquynhhuong-master\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.BaseEditDialog.resources
+C:\Users\PLH\Downloads\photo-tool-phanthiquynhhuong-master\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.PhotoEditDialog.resources
+C:\Users\PLH\Downloads\photo-tool-phanthiquynhhuong-master\MyPhotoControls\obj\Debug\Manning.MyPhotoControls.PixelDialog.resources
+C:\Users\PLH\Downloads\photo-tool-phanthiquynhhuong-master\MyPhotoControls\obj\Debug\MyPhotoControls.csproj.GenerateResource.Cache
+C:\Users\PLH\Downloads\photo-tool-phanthiquynhhuong-master\MyPhotoControls\obj\Debug\MyPhotoControls.csproj.CoreCompileInputs.cache
+C:\Users\PLH\Downloads\photo-tool-phanthiquynhhuong-master\MyPhotoControls\obj\Debug\MyPhotoControls.dll
+C:\Users\PLH\Downloads\photo-tool-phanthiquynhhuong-master\MyPhotoControls\obj\Debug\MyPhotoControls.pdb
