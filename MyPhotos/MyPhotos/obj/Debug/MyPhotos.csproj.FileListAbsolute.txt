@@ -94,3 +94,5 @@ E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotos\o
 E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotos\obj\Debug\MyPhotos.exe
 E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotos\obj\Debug\MyPhotos.pdb
 E:\photo-tool-phanthiquynhhuong\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotos\obj\Debug\MyPhotos.SlideShowDialog.resources
+E:\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotos\obj\Debug\MyPhotos.SlideShowDialog.resources
+E:\photo-tool-phanthiquynhhuong\MyPhotos\MyPhotos\obj\Debug\MyPhotos.ParentForm.resources
